@@ -3,7 +3,7 @@ let giveMoney = 1000;
 let applePrice = 300;
 let orangePrice = 400;
 let totalCost = applePrice + orangePrice;
-let monyback = giveMoney - totalCost;
+let  monyback = giveMoney - totalCost;
 console.log(monyback);
 
 
@@ -38,4 +38,20 @@ for (let i = 0; i < dailyTask.length; i++){
 ////////////////////////////////--------------------------------//////////////////////////////
 for (let i = 1; i <= 10; i++){
     console.log('ajke amr mon vlo nei', i);
+}
+
+//////////////////////////////---------------------------------/////////////////////////////////
+for (let i = 58; i <= 98; i++){
+    console.log(i);
+}
+/////////////////////////--------------------------------------////////////////////////////
+let i = 0;
+while (i <= 58) {
+    console.log(i);
+    i++;
+}
+/////////////////////////----------------------------------------///////////////////////////
+
+for (i = 412; i <= 466; i++){
+    console.log(i);
 }
